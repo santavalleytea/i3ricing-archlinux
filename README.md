@@ -1,5 +1,9 @@
 # ArchLinux Ricing (i3)
 
+![screenshot](https://github.com/santavalleytea/i3ricing-archlinux/blob/main/screenshots/image(1).png)
+<br><br>
+![screenshot](https://github.com/santavalleytea/i3ricing-archlinux/blob/main/screenshots/image.png)
+
 ## Config
 ~ i3/config --> ~/.config/i3<br>
 ~ alacritty/alacritty.yml --> ~/.config/alacritty<br>
