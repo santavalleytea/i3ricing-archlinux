@@ -1,11 +1,11 @@
 # ArchLinux Ricing (i3)
 
 ## Config
-~ i3/config --> ~/.config/i3
-~ alacritty/alacritty.yml --> ~/.config/alacritty
-~ neofetch/config.conf --> ~/.config/neofetch
-~ polybar/config --> ~/.config/polybar
-~ gtk-application-dark-theme=1 --> ~/.config/gtk-3.0/settings.ini
+~ i3/config --> ~/.config/i3<br>
+~ alacritty/alacritty.yml --> ~/.config/alacritty<br>
+~ neofetch/config.conf --> ~/.config/neofetch<br>
+~ polybar/config --> ~/.config/polybar<br>
+~ gtk-application-dark-theme=1 --> ~/.config/gtk-3.0/settings.ini<br>
 
 ## Dependencies
 ~ polybar <br>
