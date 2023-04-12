@@ -24,8 +24,8 @@
 
 
 ## Credit
-https://github.com/CSaratakij/i3-rice-rin-shelter
-https://github.com/polybar/polybar
-https://github.com/ibrahimbutt/direwolf-arch-rice
+https://github.com/CSaratakij/i3-rice-rin-shelter <br>
+https://github.com/polybar/polybar <br>
+https://github.com/ibrahimbutt/direwolf-arch-rice <br>
 
 current arch rice using i3 (incomplete)
