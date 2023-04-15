@@ -19,7 +19,6 @@
 - polybar <br>
 - alacritty <br>
 - pywal <br>
-- i3-gaps <br>
 - ranger <br>
 - neofetch <br>
 - gtk3 <br>
